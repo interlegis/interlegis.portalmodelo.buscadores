@@ -27,6 +27,12 @@
   <!-- Upgrades -->
   <include package=".upgrades" />
 
+  <!-- Oculta products  -->
+  <utility
+      factory=".config.HiddenProducts"
+      name="interlegis.portalmodelo.buscadores"
+      />
+
   <!-- Oculta profile -->
   <utility
       factory=".config.HiddenProfiles"
