@@ -10,6 +10,11 @@
 
   <i18n:registerTranslations directory="locales" />
 
+  <browser:resourceDirectory
+      name="portalmodelo.buscadores"
+      directory="static"
+      />
+
   <!-- Suporte ao Generic Setup-->
   <include file="profiles.zcml" />
 

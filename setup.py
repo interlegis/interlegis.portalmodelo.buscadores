@@ -28,7 +28,7 @@ setup(
         'Programming Language :: Python :: 2.7',
         'Topic :: Software Development :: Libraries :: Python Modules',
     ],
-    keywords='interlegis portalmodelo lexml plone',
+    keywords='interlegis portalmodelo lexml search plone',
     author='Programa Interlegis',
     author_email='ti@interlegis.leg.br',
     url='https://github.com/interlegis/interlegis.portalmodelo.buscadores',

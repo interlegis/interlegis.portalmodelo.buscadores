@@ -4,6 +4,9 @@ Changelog
 1.0b3 (unreleased)
 ------------------
 
+- Refactoring portlets and insert its logo
+  [jeanferri]
+
 - Hide UpgradeStep from quickinstaller tool
   [ericof]
 
