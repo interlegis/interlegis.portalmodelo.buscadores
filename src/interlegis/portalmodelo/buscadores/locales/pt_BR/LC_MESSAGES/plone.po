@@ -16,7 +16,7 @@ msgstr ""
 
 #: interlegis/portalmodelo/buscadores/profiles/default/portlets.xml
 msgid "External search on the Buscador Legislativo do Interlegis"
-msgstr "Busca externa no Buscador Legislativo do Interlegis"
+msgstr "Busca externa no Buscador Legislativo"
 
 #: interlegis/portalmodelo/buscadores/profiles/default/portlets.xml
 msgid "External search on the Legislative Information and Legal Network"
@@ -24,9 +24,9 @@ msgstr "Busca externa na Rede de Informação Legislativa e Jurídica"
 
 #: interlegis/portalmodelo/buscadores/profiles/default/portlets.xml
 msgid "Search on Buscador Legislativo"
-msgstr "Buscar no Buscador Legislativo"
+msgstr "Buscar no BuscaLeg"
 
 #: interlegis/portalmodelo/buscadores/profiles/default/portlets.xml
 msgid "Search on LexML Brazil"
-msgstr "Buscar no LexML Brasil"
+msgstr "Buscar no LexML"
 

@@ -4,6 +4,9 @@ Changelog
 1.0b3 (unreleased)
 ------------------
 
+- Change portlet name translation
+  [jeanferri]
+
 - Refactoring portlets and insert its logo
   [jeanferri]
 

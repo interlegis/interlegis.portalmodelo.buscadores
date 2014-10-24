@@ -16,9 +16,9 @@ msgstr ""
 
 #: interlegis/portalmodelo/buscadores/portlets/buscaleg.py:18
 msgid "Search on Buscador Legislativo"
-msgstr "Buscar no Buscador Legislativo"
+msgstr "Buscar no BuscaLeg"
 
 #: interlegis/portalmodelo/buscadores/portlets/lexml.py:18
 msgid "Search on LexML Brazil"
-msgstr "Buscar no LexML Brasil"
+msgstr "Buscar no LexML"
 
