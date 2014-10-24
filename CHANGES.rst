@@ -4,7 +4,8 @@ Changelog
 1.0rc2 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Change IPloneSiteRoot to INavigationRoot to avoid intranet error
+  [jeanferri]
 
 
 1.0rc1 (2014-10-24)
