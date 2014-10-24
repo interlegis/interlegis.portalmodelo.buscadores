@@ -1,7 +1,7 @@
 Changelog
 =========
 
-1.0rc2 (unreleased)
+1.0rc2 (2014-10-24)
 -------------------
 
 - Change IPloneSiteRoot to INavigationRoot to avoid intranet error
