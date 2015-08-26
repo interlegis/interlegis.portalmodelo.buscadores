@@ -1,7 +1,7 @@
 Changelog
 =========
 
-1.0rc4 (unreleased)
+1.0rc4 (2015-08-26)
 -------------------
 
 - Fix product description on Plone installer
