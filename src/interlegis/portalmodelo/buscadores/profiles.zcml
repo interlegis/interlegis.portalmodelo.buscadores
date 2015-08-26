@@ -8,7 +8,7 @@
   <!-- Profiles -->
   <genericsetup:registerProfile
       name="default"
-      title="Integração do Portal Modelo com buscadores externos"
+      title="Portal Modelo: Integração com buscadores externos"
       directory="profiles/default"
       description="Instala o pacote interlegis.portalmodelo.buscadores dentro de um portal Plone"
       provides="Products.GenericSetup.interfaces.EXTENSION"
