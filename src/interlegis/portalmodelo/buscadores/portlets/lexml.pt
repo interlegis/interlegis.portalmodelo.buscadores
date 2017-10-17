@@ -45,6 +45,11 @@
       form.setAttribute('action', form.action + '/' + kw.value);
     }
   </script>
+  <noscript>
+      <div class="error">
+          Seu navegador de internet está sem suporte à JavaScript, por esse motivo algumas funcionalidades do site podem não estar acessíveis.
+      </div>
+  </noscript>
 </dl>
 
 </html>
