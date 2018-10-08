@@ -42,3 +42,9 @@ As seguintes browser pages de resultados são registradas:
 
 * ``/lexml`` para o `LexML Brasil`_
 * ``/buscaleg`` para o `Buscador Legislativo`_
+
+
+Contribuindo
+============
+
+Para contribuir com o projeto, por favor, leia o `CONTRIBUTING <https://github.com/interlegis/interlegis.portalmodelo.buscadores/blob/master/.github/CONTRIBUTING.md>`_.
