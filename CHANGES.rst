@@ -4,7 +4,8 @@ Changelog
 1.0rc5 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Changed URLs http to https in LexML
+  [IolaneAndrade]
 
 
 1.0rc4 (2015-08-26)

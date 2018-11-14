@@ -15,7 +15,7 @@
 
   <dd class="portletItem">
     <a title="Pesquisa por informação legislativa e jurídica nos 3 poderes das 3 esferas"
-        href="http://www.lexml.gov.br/">
+        href="https://www.lexml.gov.br/">
       <img tal:attributes="src string:${context/portal_url}/++resource++portalmodelo.buscadores/images/lexml-mini.png"
            alt="Logotipo do LexML - Rede de informação legislativa e jurídica" />
     </a>

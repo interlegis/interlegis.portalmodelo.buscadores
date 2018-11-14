@@ -16,7 +16,7 @@ dentro do Portal Modelo, dos seguintes sites externos:
 
 As buscas são integradas através de ``iframes``.
 
-.. _`LexML Brasil`: http://www.lexml.gov.br/
+.. _`LexML Brasil`: https://www.lexml.gov.br/
 .. _`Buscador Legislativo`: http://busca.interlegis.leg.br/
 
 Implementação

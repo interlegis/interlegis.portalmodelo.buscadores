@@ -12,7 +12,7 @@
 
     <div id="content-core">
       <iframe width="100%" height="500px" title="Resultado da pesquisa no LexML"
-          src="http://www.lexml.gov.br/busca/search?keyword=keyword"
+          src="https://www.lexml.gov.br/busca/search?keyword=keyword"
           tal:attributes="src view/iframe_src">
       </iframe>
     </div>
