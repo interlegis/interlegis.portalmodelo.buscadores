@@ -1,7 +1,7 @@
 Changelog
 =========
 
-1.0rc5 (unreleased)
+1.0rc5 (2018-12-17)
 -------------------
 
 - Changed URLs http to https in LexML
